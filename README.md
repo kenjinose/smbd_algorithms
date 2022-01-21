@@ -11,7 +11,7 @@ A cascade of a forward and a backward prediction error filter, optimized by mean
 
 ## am_smbd.m
 
-AM-SMBD algroithm
+AM-SMBD algorithm
 
 An alternating minimization algorithm that alternates between the reflectivity series estimation (FISTA algorithm) and the wavelet estimation (Ridge regression estimator). Both algorithms are performed in the frequency domain.
 
@@ -25,9 +25,13 @@ The sparse multichannel blind deconvolution method (Euclid deconvolution + <img 
 
 Script that runs the algorithms for a synthetic dataset (synthetic2.mat).
 
-## Author
+## Authors
 
-Kenji Nose Filho, UFABC/CECS, kenji.nose@ufabc.edu.br
+Kenji Nose Filho, CECS/UFABC, kenji.nose@ufabc.edu.br
+Renato Lopes, FEEC/UNICAMP
+Renan D. B. Brotto, FEEC/UNICAMP
+Thonia C. Senna, FEEC/UNICAMP
+João M. T. Romano, FEEC/UNICAMP
 
 ## Documentation
 
