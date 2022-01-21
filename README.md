@@ -1,7 +1,7 @@
 # smbd_algorithms
-Algorithms for Sparse Multichannel Blind Deconvolution (SMBD)
+Algorithms for Sparse Multichannel Blind Deconvolution (SMBD).
 
-In this respository we share Three different algorithms for the SMBD problem.
+In this respository we share three different algorithms for the SMBD problem.
 
 ## c_pef.m
 
