@@ -27,18 +27,22 @@ Script that runs the algorithms for a synthetic dataset (synthetic2.mat).
 
 ## Authors
 
-Kenji Nose Filho, CECS/UFABC, kenji.nose@ufabc.edu.br
+João Rabello Alvim, BSc - UNICAMP j.rabello.alvim@outlook.com
 
-Renato Lopes, FEEC/UNICAMP
+Kenji Nose Filho, PhD - UFABC kenji.nose@ufabc.edu.br
 
-Renan D. B. Brotto, FEEC/UNICAMP
+Mauro Luis Brandão Junior, MSc - UNICAMP mrbrjr@gmail.com
 
-Thonia C. Senna, FEEC/UNICAMP
+Renan Del Buono Brotto, MSc - UNICAMP renanbrotto@gmail.com
 
-João M. T. Romano, FEEC/UNICAMP
+Renato da Rocha Lopes, PhD - UNICAMP rlopes@unicamp.br
+
+Thomas Antônio Portugal Pereira Teixeira, BSc - UNICAMP thomasportugal5@gmail.com
+
+Victor Carneiro Lima, BSc - UNICAMP v157460@dac.unicamp.br
 
 ## Documentation
 
 See functions documentation and:
 
-Nose-Filho, K.; Lopes, R.; Brotto, R. D. B.; Senna, T. C.; Romano, J. M. T.; New algorithms for sparse multichannel blind deconvolution (To be published).
+(To be published)
