@@ -27,19 +27,15 @@ Script that runs the algorithms for a synthetic dataset (synthetic2.mat).
 
 ## Authors
 
-João Rabello Alvim, BSc - UNICAMP j.rabello.alvim@outlook.com
+João Marcos Travassos Romano, PhD - UNICAMP 
 
 Kenji Nose Filho, PhD - UFABC kenji.nose@ufabc.edu.br
-
-Mauro Luis Brandão Junior, MSc - UNICAMP mrbrjr@gmail.com
 
 Renan Del Buono Brotto, MSc - UNICAMP renanbrotto@gmail.com
 
 Renato da Rocha Lopes, PhD - UNICAMP rlopes@unicamp.br
 
-Thomas Antônio Portugal Pereira Teixeira, BSc - UNICAMP thomasportugal5@gmail.com
-
-Victor Carneiro Lima, BSc - UNICAMP v157460@dac.unicamp.br
+Thonia Cardoso Senna, MSc - UNICAMP 
 
 ## Documentation
 
