@@ -41,4 +41,4 @@ Thonia Cardoso Senna, MSc - UNICAMP
 
 See functions documentation and:
 
-(To be published)
+Nose Filho, Kenji; Lopes, Renato; Brotto, Renan; Senna, Thonia; Romano, João (2022): New algorithms for sparse multichannel blind deconvolution. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.19657791.v1 
